@@ -1,0 +1,43 @@
+
+@font-face {
+    font-family: 'Avenir';
+    src: url('../fonts/AvenirNextLTPro-Regular.eot');
+    src: local('Avenir Next LT Pro Regular'), local('AvenirNextLTPro-Regular'),
+        url('../fonts/AvenirNextLTPro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/AvenirNextLTPro-Regular.woff2') format('woff2'),
+        url('../fonts/AvenirNextLTPro-Regular.woff') format('woff'),
+        url('../fonts/AvenirNextLTPro-Regular.ttf') format('truetype'),
+        url('../fonts/AvenirNextLTPro-Regular.svg#AvenirNextLTPro-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Avenir';
+    src: url('../fonts/AvenirNext-Medium.eot');
+    src: local('Avenir Next Medium'), local('AvenirNext-Medium'),
+        url('../fonts/AvenirNext-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/AvenirNext-Medium.woff2') format('woff2'),
+        url('../fonts/AvenirNext-Medium.woff') format('woff'),
+        url('../fonts/AvenirNext-Medium.ttf') format('truetype'),
+        url('../fonts/AvenirNext-Medium.svg#AvenirNext-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url('../fonts/Rubik-Regular.eot');
+    src: local('Rubik'), local('Rubik-Regular'),
+        url('../fonts/Rubik-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Rubik-Regular.woff2') format('woff2'),
+        url('../fonts/Rubik-Regular.woff') format('woff'),
+        url('../fonts/Rubik-Regular.ttf') format('truetype'),
+        url('../fonts/Rubik-Regular.svg#Rubik-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
